@@ -14,7 +14,10 @@ public class Selection2exp108 {
         else
             System.out.println("not leap year");
 
-
+        }
+        else
+        {
+            System.out.println("not leap year");
         }
 
 
