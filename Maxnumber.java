@@ -6,6 +6,15 @@ public class Maxnumber {
         int num1 = 28, num2 = 54, num3 = 15;
         int Maxnumber = 0;
 
+        System.out.println("input number 1 : ");
+        num1 = input08.nextInt();
+
+        System.out.println("input number 2 : ");
+        num2 = input08.nextInt();
+        
+        System.out.println("input number 3 : ");
+        num3 = input08.nextInt();
+
         if (num1>num2) {
             if (num1>num3) {
                 Maxnumber = num1;
